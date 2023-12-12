@@ -6,7 +6,7 @@ Entry Level Data Analyst
 
 📊 Aspiring Data Analyst | Exceling in transforming raw data into actionable insights | Proficient in SQL | Python | MS-Excel | Power Bi
 
-* 🌍  I'm based in Kolkata,West Bengal
+* 🌍  I'm From in Kolkata,West Bengal
 * 🖥️  See my portfolio at [Linktr](http://linktr.ee/Arpan_Kumar_Biswas)
 * ✉️  You can contact me at [biswasarpan9999@gmail.com](mailto:biswasarpan9999@gmail.com)
 * 🤝  I'm open to collaborating on Power bi dashboards, Data Cleaning , EDA(pandas)
